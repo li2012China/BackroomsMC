@@ -1,4 +1,4 @@
-# BackroomsMC
+# BackroomsMC（简体中文简介在最下方）
 
 **BackroomsMC** is a lightweight, plug-and-play modpack designed for **Minecraft** version 1.20.1, offering players an immersive backrooms multiplayer experience.
 
